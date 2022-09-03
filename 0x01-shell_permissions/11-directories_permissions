@@ -1,2 +1,3 @@
 #!/bin/bash
-mod -R ugo+X .
+chmod -R ugo+X .
+
