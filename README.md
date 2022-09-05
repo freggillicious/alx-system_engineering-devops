@@ -1,1 +1,1 @@
-this is the directory for shell basics
+this is the directory for shell permissions
