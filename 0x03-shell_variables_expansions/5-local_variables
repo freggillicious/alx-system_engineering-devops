@@ -1,1 +1,2 @@
-et | less
+#!/bin/bash
+set | less
